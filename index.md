@@ -1,3 +1,2 @@
-# Hi
-## This is Leslie
-### Nice to meet you
+# Hi, this is an image of Yaktocat.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
